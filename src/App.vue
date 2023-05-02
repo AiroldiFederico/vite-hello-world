@@ -1,4 +1,4 @@
-<script setup>
+<!-- <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 </script>
 
@@ -27,4 +27,28 @@ import HelloWorld from './components/HelloWorld.vue'
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
 }
+</style> -->
+
+
+<script setup>
+// import AppTitle from './components/AppTitle.vue'
+</script>
+
+<template>
+  <div>
+    <h1>Hello world!</h1>
+  </div>
+</template>
+
+<style scoped>
+
+  div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+  }
+
+
 </style>
