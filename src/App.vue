@@ -31,12 +31,12 @@ import HelloWorld from './components/HelloWorld.vue'
 
 
 <script setup>
-// import AppTitle from './components/AppTitle.vue'
+import AppTitle from "./components/AppTitle.vue"
 </script>
 
 <template>
   <div>
-    <h1>Hello world!</h1>
+    <AppTitle/>
   </div>
 </template>
 
