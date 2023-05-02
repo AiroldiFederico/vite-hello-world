@@ -13,9 +13,9 @@
 </script>
 
 <template>
-  <div>
-    <h1>La mia prima app con Vite!</h1>
-  </div>
+
+<h1 class="display-4">La mia prima app con Vite!</h1>
+
 </template>
 
 <style scoped>
